@@ -16,10 +16,7 @@ Data visualization is the graphical representation of information and data. By u
  Apply data visualization techniques to identify the patterns of the data.
 
 # PROGRAM:
-```
-Developed By: SANJAY G
-Reg No: 212222230131
-```
+
 ### READING THE GIVEN FILES
 ```
 import pandas as pd
